@@ -16,7 +16,7 @@
 
 
 
-### Step 3: On reaching `gitpod.io`   
+### Step 3: On reaching `Gitpod IDE`   
 
 
  
