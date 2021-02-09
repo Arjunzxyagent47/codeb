@@ -5,7 +5,7 @@
 
 
 
-### Step1: Make an account on <a target="_blank" href = "gitpod.io" > gitpod.io </a>   
+### Step1: Make an account on <a target="_blank" href = "https://gitpod.io" > gitpod.io </a>   
 
 
 
